@@ -1,0 +1,4 @@
+vega_datasets
+altair
+dash
+gunicorn
